@@ -14,9 +14,12 @@ This is a quiz application built using Bootstrap and JavaScript. The app allows 
  3. JavaScript
 
 ## Screenshots
-![image](https://github.com/ankitjha2023/quiz-app/assets/127032700/b684aac4-fdab-4112-850c-3adcd4054231)
-![image](https://github.com/ankitjha2023/quiz-app/assets/127032700/a05ae450-52ca-4896-b45d-aae46ab9e02a)
-![image](https://github.com/ankitjha2023/quiz-app/assets/127032700/8381bbdf-7041-4143-9b8d-f9c55c37424c)
+![image](https://github.com/ankitjha2023/quiz-app/assets/127032700/2384cdc2-0d70-408c-9acd-b9a9f3db3360)
+![image](https://github.com/ankitjha2023/quiz-app/assets/127032700/b56183e2-e578-48b1-8237-b2d5757b3ab1)
+![image](https://github.com/ankitjha2023/quiz-app/assets/127032700/bbb882ce-1ca6-4442-93b6-8fc398b8d38e)
+
+
+
 
 ## Github Page
-('''https://ankitjha2023.github.io/quiz-app/''')
+('''https://ankitjhagithub21.github.io/quiz-app/''')
